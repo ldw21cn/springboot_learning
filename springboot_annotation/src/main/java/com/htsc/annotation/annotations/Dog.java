@@ -25,6 +25,8 @@ public class Dog {
 
         Dog dog = new Dog();
         ActionHandle.action(dog);
+
+        System.out.println("ssss");
     }
 
 }
