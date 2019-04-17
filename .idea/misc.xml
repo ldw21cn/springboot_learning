@@ -11,6 +11,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_redis/pom.xml" />
       </list>
     </option>
   </component>

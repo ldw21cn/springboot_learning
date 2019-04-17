@@ -11,12 +11,12 @@ import java.lang.reflect.InvocationTargetException;
 public class Dog {
 
 
-    @Action
+    @Action(action = "1")
     public void say(){
         System.out.println("小狗会说话...");
     }
 
-    @Action(action = "1")
+    @Action(action = "0")
     public void sing() {
         System.out.println("小狗会唱歌...");
     }

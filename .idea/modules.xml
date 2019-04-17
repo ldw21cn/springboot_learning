@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot_annotation/annotation.iml" filepath="$PROJECT_DIR$/springboot_annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot_learning.iml" filepath="$PROJECT_DIR$/.idea/springboot_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_redis/springboot_redis.iml" filepath="$PROJECT_DIR$/springboot_redis/springboot_redis.iml" />
     </modules>
   </component>
 </project>
